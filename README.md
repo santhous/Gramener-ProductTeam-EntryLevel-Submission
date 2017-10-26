@@ -1,5 +1,5 @@
 **GRAMENER - PRODUCT TEAM - ENTRY LEVEL - SUBMISSION**
-Demo - **santhous.github.io**
+
 **2011 India Census**
 
 Indian government carries out census every decade. This dataset contains information from the 2011 census with district 
