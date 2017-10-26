@@ -5,11 +5,9 @@
 Indian government carries out census every decade. This dataset contains information from the 2011 census with district 
 level granularity on population, gender, literacy, socioeconomic status(electricity,mobiles,Internet)amongalotofother 
 dimensions. It shows a geographicmapofstateswithlowliteracyrates, Most similar districts in Bihar and Tamil Nadu. and
-Agriculturalworker.
+Agriculturalworker. 
 
-**Demo** 
-
-[a link](https://santhous.github.io)
+[**Demo**](https://santhous.github.io)
 
 **Execution:**
 
