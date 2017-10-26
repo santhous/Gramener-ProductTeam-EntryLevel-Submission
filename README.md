@@ -19,13 +19,13 @@ Open index.html.
 
 Solution for first question
 
-![Screenshot 2](https://github.com/SanthouS/Gramener-ProductTeam-EntryLevel-Submission/blob/master/low_literacy.jpg?raw=true "Low Literacy")
+![Screenshot 2](https://github.com/SanthouS/Gramener-ProductTeam-EntryLevel-Submission/blob/master/low_literacy.png?raw=true "Low Literacy")
 
 Solution for second question
 
-![Screenshot 3](https://github.com/SanthouS/Gramener-ProductTeam-EntryLevel-Submission/blob/master/similar_districts.jpg?raw=true "Similar Districts")
+![Screenshot 3](https://github.com/SanthouS/Gramener-ProductTeam-EntryLevel-Submission/blob/master/similar_districts.png?raw=true "Similar Districts")
 
 Solution for third question
 
-![Screenshot 4](https://github.com/SanthouS/Gramener-ProductTeam-EntryLevel-Submission/blob/master/agriculture_workers.jpg?raw=true "Agriculture Workers")
+![Screenshot 4](https://github.com/SanthouS/Gramener-ProductTeam-EntryLevel-Submission/blob/master/agriculture_workers.png?raw=true "Agriculture Workers")
 
