@@ -16,4 +16,4 @@ similar district
 agriculture workers
 reset
 
-![](/../<branch name>/path/to/image.png?raw=true "Optional Title")
+![Screenshot 1](https://github.com/SanthouS/Gramener-ProductTeam-EntryLevel-Submission/blob/master/index.jpg?raw=true "Index")
