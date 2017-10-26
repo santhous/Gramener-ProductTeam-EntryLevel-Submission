@@ -17,15 +17,14 @@ Open index.html.
 
 ![Screenshot 1](https://github.com/SanthouS/Gramener-ProductTeam-EntryLevel-Submission/blob/master/index.jpg?raw=true "Index")
 
-Solution for first question
+Solution for first question **Low Literacy**
 
 ![Screenshot 2](https://github.com/SanthouS/Gramener-ProductTeam-EntryLevel-Submission/blob/master/low_literacy.png?raw=true "Low Literacy")
 
-Solution for second question
+Solution for second question **Similar Districts**
 
 ![Screenshot 3](https://github.com/SanthouS/Gramener-ProductTeam-EntryLevel-Submission/blob/master/similar_districts.png?raw=true "Similar Districts")
 
-Solution for third question
+Solution for third question **Agriculture Workers**
 
 ![Screenshot 4](https://github.com/SanthouS/Gramener-ProductTeam-EntryLevel-Submission/blob/master/agriculture_workers.png?raw=true "Agriculture Workers")
-
